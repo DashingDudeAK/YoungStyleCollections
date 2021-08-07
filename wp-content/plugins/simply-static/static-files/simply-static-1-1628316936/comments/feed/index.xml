@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments on: Hello world!	</title>
-	<atom:link href="/http://youngstylecollections.online/2021/08/07/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/http://youngstylecollections.online/2021/08/07/hello-world/</link>
+	Comments for YoungStyleCollections	</title>
+	<atom:link href="/http://youngstylecollections.online/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/http://youngstylecollections.online/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 07 Aug 2021 05:45:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>
-		By: A WordPress Commenter		</title>
+		Comment on Hello world! by A WordPress Commenter		</title>
 		<link>/http://youngstylecollections.online/2021/08/07/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>

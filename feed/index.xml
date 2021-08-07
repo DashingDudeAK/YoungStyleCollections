@@ -10,7 +10,7 @@
 <channel>
 	<title>YoungStyleCollections</title>
 	<atom:link href="/http://youngstylecollections.online/feed/" rel="self" type="application/rss+xml" />
-	<link>/http://youngstylecollections.online</link>
+	<link>/http://youngstylecollections.online/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 07 Aug 2021 05:45:24 +0000</lastBuildDate>
 	<language>en-US</language>
