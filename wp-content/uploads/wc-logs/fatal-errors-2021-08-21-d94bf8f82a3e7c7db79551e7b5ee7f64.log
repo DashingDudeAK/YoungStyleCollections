@@ -1,0 +1,48 @@
+2021-08-21T09:33:06+00:00 CRITICAL Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php:40
+Stack trace:
+#0 C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(40): method_exists(Object(__PHP_Incomplete_Class), 'import')
+#1 C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task(Object(__PHP_Incomplete_Class))
+#2 C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#3 C:\xampp\htdocs\YoungStyleCollections\wp-includes\class-wp-hook.php(303): WP_Background_Process->handle_cron_healthcheck()
+#4 C:\xampp\htdocs\YoungStyleCollections\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\YoungStyleCollections\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\YoungStyleCollections\wp-cron.php(138): do_action_ref_array('wp_image_proces...', Array)
+#7 {main}
+  thrown in C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php on line 40
+
+2021-08-21T09:35:38+00:00 CRITICAL Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php:40
+Stack trace:
+#0 C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(40): method_exists(Object(__PHP_Incomplete_Class), 'import')
+#1 C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task(Object(__PHP_Incomplete_Class))
+#2 C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#3 C:\xampp\htdocs\YoungStyleCollections\wp-includes\class-wp-hook.php(303): WP_Background_Process->handle_cron_healthcheck()
+#4 C:\xampp\htdocs\YoungStyleCollections\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\YoungStyleCollections\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\YoungStyleCollections\wp-cron.php(138): do_action_ref_array('wp_image_proces...', Array)
+#7 {main}
+  thrown in C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php on line 40
+
+2021-08-21T09:40:38+00:00 CRITICAL Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php:40
+Stack trace:
+#0 C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(40): method_exists(Object(__PHP_Incomplete_Class), 'import')
+#1 C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task(Object(__PHP_Incomplete_Class))
+#2 C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#3 C:\xampp\htdocs\YoungStyleCollections\wp-includes\class-wp-hook.php(303): WP_Background_Process->handle_cron_healthcheck()
+#4 C:\xampp\htdocs\YoungStyleCollections\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\YoungStyleCollections\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\YoungStyleCollections\wp-cron.php(138): do_action_ref_array('wp_image_proces...', Array)
+#7 {main}
+  thrown in C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php on line 40
+
+2021-08-21T09:45:40+00:00 CRITICAL Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php:40
+Stack trace:
+#0 C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(40): method_exists(Object(__PHP_Incomplete_Class), 'import')
+#1 C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task(Object(__PHP_Incomplete_Class))
+#2 C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#3 C:\xampp\htdocs\YoungStyleCollections\wp-includes\class-wp-hook.php(303): WP_Background_Process->handle_cron_healthcheck()
+#4 C:\xampp\htdocs\YoungStyleCollections\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\YoungStyleCollections\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\YoungStyleCollections\wp-cron.php(138): do_action_ref_array('wp_image_proces...', Array)
+#7 {main}
+  thrown in C:\xampp\htdocs\YoungStyleCollections\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php on line 40
+
